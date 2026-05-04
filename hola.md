@@ -67,20 +67,35 @@ Procesos automatizados:
 - Envío de notificaciones a clientes
 
 ## 💡 9. Valor del proyecto
-- Beneficios económicos:
-- Mejora operativa:
-- Ventaja competitiva:
-- Riesgos de no digitalizar:
+Beneficios de digitalizar:
+- Mayor eficiencia operativa
+- Mejor toma de decisiones
+- Incremento de ventas
+
+Riesgos de no hacerlo:
+- Pérdida de competitividad
+- Menor satisfacción del cliente
+- Disminución de ingresos
 
 ## 📐 10. Modelado UML (OBLIGATORIO)
 
 ### Casos de uso
-- Actores:
-- Funcionalidades principales:
+Actores: Cliente, Administrador
+Cliente: registrarse, iniciar sesión, comprar productos, consultar pedidos
+Administrador: gestionar productos, gestionar pedidos, analizar dato
 
 ### Diagrama de clases
 - Entidades principales:
+- Cliente (id, nombre, email)
+- Producto (id, nombre, precio, stock)
+- Pedido (id, fecha, total)
+- DetallePedido (cantidad, precio)
+
+
 - Relaciones:
+- Cliente realiza Pedido
+- Pedido contiene Producto
+- Pedido incluye DetallePedido
 
 ### Diagrama de secuencia (opcional)
 - Caso representado:

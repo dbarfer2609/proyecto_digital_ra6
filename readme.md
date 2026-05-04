@@ -1,106 +1,76 @@
 # 🚀 Proyecto de Transformación Digital (RA6)
 
-## 🧑‍💼 1. Empresa
-- Nombre de la empresa:
-- Sector:
-- Descripción breve:
+📊 Parte 1 — Empresa
+Nombre: EcoMarket
+Sector: Comercio minorista (productos ecológicos)
+Situación actual: Empresa con tienda física y pocas ventas online. Gestión manual de inventario, pedidos y clientes, lo que genera ineficiencias.
 
----
+🎯 Parte 2 — Objetivos
+- Automatizar la gestión de inventario y pedidos
+- Mejorar la experiencia del cliente con una tienda online
+- Utilizar datos para mejorar decisiones de negocio
 
-## 🎯 2. Objetivos estratégicos (SMART)
+🏢 Parte 3 — Áreas
+- Ventas
+- Logística
+- Marketing
 
-### Objetivo 1
-- Descripción:
-- Métrica:
-- Plazo:
+Relación entre ellas:
+Ventas genera pedidos → Logística gestiona envíos e inventario → Marketing analiza datos para mejorar ventas.
 
-### Objetivo 2
-- Descripción:
-- Métrica:
-- Plazo:
+⚙️ Parte 4 — Tecnologías
 
-### Objetivo 3
-- Descripción:
-- Métrica:
-- Plazo:
+Cloud computing
+Base de datos relacional
+Inteligencia artificial
+Aplicación web (e-commerce)
 
----
+📊 Parte 5 — Datos
+Qué datos maneja la empresa:
+- Datos de clientes
+- Historial de compras
+- Inventario de productos
 
-## 🏢 3. Áreas de la empresa
+Qué información se obtiene:
+- Productos más vendidos
+- Preferencias de clientes
+- Predicción de demanda
 
-| Área | Función | Sub-objetivo digital | Impacto esperado |
-|------|--------|----------------------|------------------|
-|      |        |                      |                  |
-|      |        |                      |                  |
-|      |        |                      |                  |
+🔐 Parte 6 — Seguridad
+2 riesgos:
+- Robo de datos personales
+- Ciberataques (malware, phishing)
 
----
+2 medidas de protección:
+- Cifrado de datos
+- Autenticación de doble factor (2FA)
 
-## ⚙️ 4. Tecnologías habilitadoras digitales (THD)
+👥 Parte 7 — Recursos humanos
+Nuevas competencias digitales:
+- Uso de software de gestión
+- Análisis de datos
+- Marketing digital
 
-- Tecnología 1:
-  - Uso en la empresa:
-- Tecnología 2:
-  - Uso en la empresa:
-- Tecnología 3:
-  - Uso en la empresa:
-- Tecnología 4:
-  - Uso en la empresa:
-- Tecnología 5:
-  - Uso en la empresa:
+Cambios organizativos:
+- Creación de un departamento IT
+- Formación digital del personal
 
----
+🔗 Parte 8 — Integración
+Sistemas conectados:
+- CRM
+- ERP
+- Plataforma e-commerce
 
-## 📊 5. Datos y tratamiento de la información
-
-- Tipos de datos que genera la empresa:
-- Cómo se capturan:
-- Cómo se almacenan:
-- Cómo se procesan:
-- Cómo se analizan:
-- Uso en la toma de decisiones:
-
----
-
-## 🔐 6. Seguridad y riesgos
-
-### Riesgos identificados
-1.
-2.
-3.
-
-### Medidas de protección
-1.
-2.
-3.
-
----
-
-## 👨‍💻 7. Recursos humanos
-
-- Nuevos perfiles necesarios:
-- Formación requerida:
-- Cambios organizativos:
-
----
-
-## 🔗 8. Integración de sistemas
-
-- ERP utilizado o propuesto:
-- CRM utilizado o propuesto:
-- BPM / automatización:
-- Integración entre sistemas:
-
----
+Procesos automatizados:
+- Gestión de pedidos
+- Actualización de inventario
+- Envío de notificaciones a clientes
 
 ## 💡 9. Valor del proyecto
-
 - Beneficios económicos:
 - Mejora operativa:
 - Ventaja competitiva:
 - Riesgos de no digitalizar:
-
----
 
 ## 📐 10. Modelado UML (OBLIGATORIO)
 
